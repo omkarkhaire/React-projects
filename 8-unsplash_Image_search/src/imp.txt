@@ -1,0 +1,7 @@
+// sIn6GVdEO3aKZI2pItTuDtyue1NObsT2f0vmmUvLGC8 access key
+//l_NhM3jUDOmCo7AwFmG3U6mzOv9Jg60X2tTht8Xa-Es secret key
+
+//https://api.unsplash.com/photos/?client_id=YOUR_ACCESS_KEY
+
+ // url = mainurl + "?client_id=sIn6GVdEO3aKZI2pItTuDtyue1NObsT2f0vmmUvLGC8"; not the best way
+
